@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GaneshDebadwar
-- 👀 I’m interested in App Development
+- 👀 I’m interested in web Development
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on App Development
+- 💞️ I’m looking to collaborate on web Development
 - 📫 How to reach me Via mail- g.debadwar777@gmail.com
 
 <!---
