@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GaneshDebadwar
 - 👀 I’m interested in web Development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on web Development
 - 📫 How to reach me Via mail- g.debadwar777@gmail.com
 
